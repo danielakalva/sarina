@@ -1,0 +1,42 @@
+body{
+    background-color: rgb(136, 127, 255);
+    font-family: Verdana, Geneva, Tahoma, sans-serif
+}
+
+.kaste {
+width: 200px;
+height: 200px;
+border: solid;
+border-width: 10px;
+padding: 20px;
+margin: 0px;
+background-color: aqua;
+}
+
+.videja-kaste {
+    width: 200px;
+    height: 200px;
+    border: solid;
+    border-width: 20px;
+    margin-left: 260px;
+    margin-right: 260px;
+    position: absolute;
+    top: 50px;
+    left: 50px;
+    background-color: rgb(255, 0, 140);
+    }
+    .apakseja-kaste {
+        width: 200px;
+        height: 200px;
+        border: solid;
+        border-width: 10px ;
+        margin-left: 500px;
+        margin-right: 500px;
+        background-color: rgb(166, 255, 0);
+        }
+
+.bilde{
+width: 300px;
+height: 300px;
+float: left;
+}
